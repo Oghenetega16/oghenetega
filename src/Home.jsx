@@ -1,0 +1,17 @@
+import Initials from "./Initials"
+import About from "./About"
+import Experience from "./Experience"
+import Project from "./Project"
+
+export default function Home() {
+    return (
+        <div className="min-h-screen font-display py-12 px-6 md:px-12 md:py-16 lg:flex lg:justify-between lg:gap-4">
+        <div className="lg:w-[48%] lg:fixed"><Initials /></div>
+        <div className="lg:w-[52%] lg:ml-auto">
+            <About />
+            <Experience />
+            <Project />
+        </div>
+        </div>
+    )
+}
