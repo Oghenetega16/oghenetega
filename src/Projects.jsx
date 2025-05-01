@@ -1,3 +1,5 @@
+import Skill from './components/skills'
+
 export default function Projects() {
     return (
         <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-16 lg:py-0">
@@ -19,10 +21,10 @@ export default function Projects() {
                 <tbody>
                     <tr className="border-b border-slate-300/10 last:border-none">
                         <td className="py-4 pr-4 align-top text-sm"><div className="translate-y-px">2023</div></td>
-                        <td className="py-4 pr-4 align-top font-semibold leading-snug text-slate-200"></td>
-                        <td className="hidden py-4 pr-4 align-top text-sm lg:table-cell"></td>
-                        <td className="hidden py-4 pr-4 align-top lg:table-cell"></td>
-                        <td className="hidden py-4 pr-4 align-top sm:table-cell"></td>
+                        <td className="py-4 pr-4 align-top font-semibold leading-snug text-slate-200"><div>Emerson Collective</div></td>
+                        <td className="hidden py-4 pr-4 align-top text-sm lg:table-cell"><div>Upstatement</div></td>
+                        <td className="hidden py-4 pr-4 align-top lg:table-cell"><div className='inline-flex flex-wrap space-x-3'><Skill skill='JavaScript' /><Skill skill='React' /><Skill skill='JavaScript' /><Skill skill='React' /></div></td>
+                        <td className="hidden py-4 pr-4 align-top sm:table-cell"><div>oghenetegasukuru.com</div></td>
                     </tr>
                 </tbody>
             </table>
