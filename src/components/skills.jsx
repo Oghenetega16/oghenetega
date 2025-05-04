@@ -1,7 +1,7 @@
 export default function Skills({ skill = {skill} }) {
     return (
         <div>
-            <p className="bg-emerald-500 rounded-3xl px-4 py-2">{skill}</p>
+            <p className="bg-[#4BD3D0] rounded-3xl px-4 py-1 text-sm">{skill}</p>
         </div>
     )
 }

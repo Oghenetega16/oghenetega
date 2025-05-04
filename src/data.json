@@ -1,0 +1,252 @@
+[
+    {
+        "title": "REST Countries API App",
+        "desc": "This project is a fully responsive web application that fetches and displays real-time data from the REST Countries API.Users can search for any country by name, filter countries by region, and view detailed information such as population, languages, native names, currencies, borders, and capital cities. Each country detail page is dynamically generated using React Router, enhancing the single-page application experience. Additionally, a dark mode toggle was implemented to allow for theme switching, improving accessibility and user comfort in different lighting environments. This project showcases a strong understanding of API integration, dynamic routing, component-based architecture, and state management.",
+        "deliverables": "React.js, RESTful API integration, Tailwind CSS, React Router, dark mode theming, accessibility, responsive design, and dynamic rendering.",
+        "image": "./assets/images/rest-countries-api-desktop-design-home-light.jpg",
+        "skills": ["React", "CSS3", "JavaScript", "HTML5"],
+        "link": "https://oghenetega-rest-countries-api.netlify.app/",
+        "year": "2025",
+        "link-tag": "restcountriesapi.netlify"
+    },
+    {
+        "title": "Browsers Extension Manager UI",
+        "desc": "The Browser Extension Manager UI project presents a clean, minimalist interface for showcasing downloadable browser extensions. It includes browser-specific tabs (Chrome, Firefox, Opera), version highlights, and a call-to-action for installation. The layout adjusts seamlessly across devices using a mobile-first responsive design approach. Each card component is independently styled and includes hover states and accessibility-friendly focus indicators. While simple in functionality, the project emphasizes layout precision, modular CSS structuring, and visual consistency—skills that are critical in production-ready UI development.",
+        "deliverables": "HTML5, CSS3, Tailwind CSS, Flexbox/Grid layout, responsive design, component styling, UI consistency, accessibility best practices.",
+        "image": "./assets/images/browsers-extension-manager-ui-desktop-design-light.jpg",
+        "skills": ["HTML5", "CSS3", "Flexbox/Grid"],
+        "link": "https://oghenetega-browsers-extension-manager.netlify.app/",
+        "year": "2025",
+        "link-tag": "browserextensionmanager.netlify"
+    },
+    {
+        "title": "E-commerce Product Page",
+        "desc": "A fully responsive and interactive e-commerce product page designed to showcase product details, including images, descriptions, price, and an add-to-cart feature. The app uses React for dynamic state management and offers an interactive user experience. It focuses on providing a smooth and seamless shopping experience, with features like product quantity adjustment, cart summary, and image galleries. The project also includes a mobile-first approach, ensuring accessibility and usability across different devices.",
+        "deliverables": "Responsive design, JavaScript, accessibility features, mobile-first design, and UX optimization.",
+        "image": "./assets/images/ecommerce-product-page-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://oghenetega16.github.io/ecommerce-product-page/",
+        "year": "2025",
+        "link-tag": "ecommerceproductpage.github.io"
+    },
+    {
+        "title": "Multi-Step Form",
+        "desc": "The Multi-Step Form project is an interactive, multi-step form that collects user information across various sections. Each form step is validated before moving forward, ensuring the integrity of the user’s input. The project includes components for personal info, selecting a plan, add-ons, and a summary page, with a clear validation system to guide the user through the form. React Router is used to dynamically render the steps, while state management ensures that the data is passed correctly between them.",
+        "deliverables": "React.js, form validation, state management, React Router, dynamic form rendering, responsive design, and UX-focused development.",
+        "image": "./assets/images/multi-step-form-desktop-design-step-1.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript", "React"],
+        "link": "https://oghenetega-multi-step-form.netlify.app/",
+        "year": "2025",
+        "link-tag": "multistepform.netlify"
+    },
+    {
+        "title": "Product List with Cart",
+        "desc": "This e-commerce app features a product listing page with the ability to add products to a cart, adjust quantities, and view the cart's total price. Built with React, the app allows users to dynamically update the cart and perform actions like removing items or changing quantities. It includes a responsive design to provide an optimal experience on both desktop and mobile devices. The project also focuses on handling product data, managing state, and implementing UI transitions.",
+        "deliverables": "React.js, state management, dynamic cart updates, conditional rendering, responsive layout, and event-driven UI updates.",
+        "image": "./assets/images/product-list-with-cart-desktop-design-empty.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript", "React"],
+        "link": "https://oghenetega-product-list-with-cart.netlify.app/",
+        "year": "2025",
+        "link-tag": "productlistwithcart.netlify"
+    },
+    {
+        "title": "Pricing Component with Toggle",
+        "desc": "This project implements a pricing component that allows users to toggle between monthly and yearly pricing for a service or subscription. The component is designed to update the displayed price dynamically based on the user’s selection. Built using React, the project also involves handling UI transitions and ensuring the component is fully responsive and accessible.",
+        "deliverables": "React.js, dynamic data rendering, JavaScript event handling, responsive design, user interaction.",
+        "image": "./assets/images/pricing-component-with-toggle-desktop-design-monthly",
+        "skills": ["HTML5", "Tailwind CSS", "React"],
+        "link": "https://oghenetega-pricing-component-toggle.netlify.app/",
+        "year": "2025",
+        "link-tag": "pricingcomponenttoggle.netlify"
+    },
+    {
+        "title": "Time Tracking Dashboard",
+        "desc": "This project is a fully responsive and dynamic React-based web application that allows users to track the amount of time spent on various daily activities, such as work, play, study, exercise, socializing, and self-care. The dashboard is designed with a clean, card-based UI that visually presents both current and previous time data across three selectable timeframes—daily, weekly, and monthly. When users interact with the timeframe toggles, the application updates the data displayed on each activity card in real-time using efficient state management techniques.",
+        "deliverables": "React.js, component-based architecture, useState for dynamic rendering, JSON data handling, responsive design with CSS Grid and Flexbox, UI/UX principles, dynamic state management, and interactive filtering.",
+        "image": "./assets/images/time-tracking-dashboard-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript", "React"],
+        "link": "https://oghenetega-time-tracking-dashboard.netlify.app/",
+        "year": "2025",
+        "link-tag": "timetrackingdashboard.netlify"
+    },
+    {
+        "title": "IP Address Tracker",
+        "desc": "This project is a responsive and interactive web application built with HTML, CSS, and JavaScript that allows users to search for any valid IP address or domain name and receive real-time location data. Upon entering an IP or domain, the app fetches and displays key information such as the IP address, geographic location (city, region, and country), time zone, and ISP (Internet Service Provider). Additionally, the application visually plots the location on an interactive map powered by Leaflet.js, with a marker pinpointing the exact location.",
+        "deliverables": "JavaScript, RESTful API integration, Leaflet.js for maps, responsive design with CSS Grid and Flexbox, DOM manipulation, asynchronous data handling (fetch API), real-time location rendering, and mobile-first layout design.",
+        "image": "./assets/images/ip-address-tracker-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript", "API Integration"],
+        "link": "https://oghenetega-ip-address-tracker.netlify.app/",
+        "year": "2025",
+        "link-tag": "ipaddresstracker.netlify"
+    },
+    {
+        "title": "Todo App",
+        "desc": "The Todo App is a fully responsive, interactive task management application developed using React.js. It allows users to create, read, update, and delete (CRUD) tasks in a sleek, minimalistic user interface. The application is built with a focus on dynamic state management, allowing users to seamlessly toggle task completion status, filter tasks by active or completed state, and clear all completed tasks. The app also supports drag-and-drop reordering of tasks for enhanced usability and personalization.",
+        "deliverables": "React.js, state management with useState/useEffect, conditional rendering, local storage persistence, dark mode theming, task filtering and sorting, and CRUD functionality.",
+        "image": "./assets/images/todo-app-desktop-design-light.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript", "React"],
+        "link": "https://oghenetega-todo-app.netlify.app/",
+        "year": "2025",
+        "link-tag": "todoapp.netlify"
+    },
+    {
+        "title": "URL Shortening API",
+        "desc": "The URL Shortening API project is a fully responsive React web app that enables users to shorten long URLs using a third-party API and manage their history of shortened links. It features real-time API interactions, input validation, error handling, and a one-click copy-to-clipboard function via the Clipboard API. Designed with a mobile-first approach, the app includes dark mode theming, smooth animations, and accessible UI elements for a seamless user experience. This project demonstrates strong skills in React.js, RESTful API integration, responsive design, and modern user interface development.",
+        "deliverables": "React.js, RESTful API integration, URL validation, error handling, responsive design, Clipboard API usage, state management with hooks, dark mode theming, and interactive UI/UX enhancements.",
+        "image": "./assets/images/",
+        "skills": ["HTML5", "CSS3", "JavaScript", "API Integration"],
+        "link": "https://oghenetega16.github.io/url-shortening-api/",
+        "year": "2025",
+        "link-tag": "urlshorteningapi.github.io"
+    },
+    {
+        "title": "Age Calculator App",
+        "desc": "In this project, users input their date of birth, and the app calculates and displays their exact age in years, months, and days. The interface includes real-time form validation and helpful error messages if the input format is incorrect or dates are invalid (e.g., future dates). The logic behind the age calculation was a great exercise in handling JavaScript Date objects and accounting for different edge cases like leap years or month boundaries. Visually, the project uses modern styling and a responsive card layout.",
+        "deliverables": "JavaScript date logic, form validation, error handling, mobile-first design, accessibility enhancements, modular CSS.",
+        "image": "",
+        "skills": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://oghenetega16.github.io/age-calculator/",
+        "year": "2024",
+        "link-tag": "agecalculator.github.io"
+    },
+    {
+        "title": "Advice Generator App",
+        "desc": "The Advice Generator is a single-page application that fetches advice quotes from an API and displays them in a centered card layout. The advice updates with a fade-in animation whenever the user clicks the 'dice' button. This project was an opportunity to work with asynchronous JavaScript, API error handling, and smooth user interaction using minimalistic animations. It taught practical implementation of fetch(), event listeners, and state reactivity in a simple frontend project.",
+        "deliverables": "JavaScript (ES6), DOM manipulation, asynchronous API calls, responsive layout, CSS transitions, API error handling, minimalist UI design.",
+        "image": "./assets/images/advice-generator-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript", "API Integration"],
+        "link": "https://oghenetega16.github.io/advice-generator/",
+        "year": "2024",
+        "link-tag": "advicegenerator.github.io"
+    },
+    {
+        "title": "Interactive Rating Component",
+        "desc": "Users can select a rating from 1 to 5, submit their rating, and view a thank-you screen. The interface includes hover and active states for improved usability and feedback. The component focuses on clarity and responsiveness, with concise animations between views.",
+        "deliverables": "DOM manipulation, event-driven UI updates, state handling with vanilla JavaScript, CSS transitions, and mobile responsiveness.",
+        "image": "./assets/images/",
+        "skills": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://oghenetega16.github.io/interactive-rating-component/",
+        "year": "2024",
+        "link-tag": "interactiveratingcomponent.github.io"
+    },
+    {
+        "title": "Article Preview Component",
+        "desc": "This project allows users to view a preview of a blog article and toggle the social share options. The key functionality includes showing/hiding a social sharing popup on smaller screens with proper focus handling for accessibility. The design maintains pixel-perfect spacing and visual hierarchy.",
+        "deliverables": "DOM manipulation, conditional rendering, responsive card design, focus management, accessibility handling, and modern CSS styling.",
+        "image": "./assets/images/article-preview-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://oghenetega16.github.io/article-preview/",
+        "year": "2024",
+        "link-tag": "articlepreview.github.io"
+    },
+    {
+        "title": "Contact Form",
+        "desc": "The Contact Form project involves creating a fully functional contact form that allows users to submit their details, including name, email, and message. The form includes input validation to ensure that all required fields are completed correctly before submission. It features dynamic error messages and a responsive layout, making it user-friendly across all devices. The form is built with React for state management and validation logic, ensuring efficient handling of user input.",
+        "deliverables": "Form validation, user input handling, JavaScript, CSS for form design, responsive layout.",
+        "image": "./assets/images/contact-form-desktop-design",
+        "skills": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://oghenetega16.github.io/contact-form/",
+        "year": "2024",
+        "link-tag": "contactform.github.io"
+    },
+    {
+        "title": "Blog Preview Card",
+        "desc": "A compact and elegant card layout highlighting a blog post preview with an author section. Emphasis was placed on font pairing, visual hierarchy, and spacing to maintain a clean and professional appearance across all devices.",
+        "deliverables": "CSS Flexbox, responsive typography, semantic HTML, card-based UI layout, and mobile responsiveness.",
+        "image": "./assets/images/blog-preview-card-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/blog-preview-card/",
+        "year": "2024",
+        "link-tag": "blogpreviewcard.github.io"
+    },
+    {
+        "title": "NFT Preview Card",
+        "desc": "A visually appealing preview card for a fictional NFT product. It includes hover effects, overlay transitions, and clear text hierarchy. Special care was given to spacing, shadows, and alignment to match the design specification precisely.",
+        "deliverables": "CSS hover states, visual hierarchy, semantic markup, custom font implementation, and Flexbox-based layout.",
+        "image": "./assets/images/nft-preview-card-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/nft-preview-card-component/",
+        "year": "2024",
+        "link-tag": "nftpreviewcard.github.io"
+    },
+    {
+        "title": "Social Proof Section",
+        "desc": "This project uses layout techniques to display customer reviews and ratings alongside a testimonial section. It focuses on balancing multiple text elements and visual feedback for credibility.",
+        "deliverables": "CSS layout strategy, typography hierarchy, responsive design, and Flexbox-based testimonial grid.",
+        "image": "./assets/images/social-proof-section-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/social-proof-section/",
+        "year": "2024",
+        "link-tag": "socialproofsection.github.io"
+    },
+    {
+        "title": "Stats Preview Card",
+        "desc": "A stats-based UI component that displays business metrics in a clean layout with visual accents. The background image overlay and color blending were carefully implemented to preserve readability.",
+        "deliverables": "CSS background techniques, image overlays, typography contrast, responsive layout, and accessibility.",
+        "image": "./assets/images/stats-peview-card-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/stats-preview-card-component/",
+        "year": "2024",
+        "link-tag": "statspreviewcard.github.io"
+    },
+    {
+        "title": "3 Column Preview Card",
+        "desc": "This project focuses on building a responsive three-column layout that highlights different car rental services. Each column has its unique theme color, icon, and a call-to-action button, which changes appearance on hover to enhance interactivity. While it may seem straightforward, the challenge lies in achieving visual harmony and responsiveness across different screen sizes. It reinforces layout techniques, color use, and text hierarchy within a grid-based structure.",
+        "deliverables": "CSS Grid, Flexbox, hover states, typography hierarchy, mobile responsiveness, accessibility considerations, consistent spacing.",
+        "image": "./assets/images/3-column-preview-card-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3", "Flexbox/Grid"],
+        "link": "https://oghenetega16.github.io/3-column-preview-card-component/",
+        "year": "2024",
+        "link-tag": "3columnpreviewcard.github.io"
+    },
+    {
+        "title": "Result Summary Component",
+        "desc": "Displays a user’s result score with a breakdown by categories in a visually engaging summary panel. It uses color coding and icons for clarity and impact, along with a clear call-to-action.",
+        "deliverables": "Responsive design, semantic HTML, styled score indicators, and layout consistency using Flexbox.",
+        "image": "./assets/images/result-summary-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/result-summary-component/",
+        "year": "2024",
+        "link-tag": "resultsummarycomponent.github.io"
+    },
+    {
+        "title": "QR Code Component",
+        "desc": "A minimalist project featuring a QR code and brief instructions. While simple, it required pixel-perfect spacing, font styling, and central alignment for clean visual presentation.",
+        "deliverables": "CSS Box Model, centered layout with Grid, semantic HTML structure, and responsive design.",
+        "image": "./assets/images/qr-code-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/qr-code-component/",
+        "year": "2024",
+        "link-tag": "qrcodecomponent.github.io"
+    },
+    {
+        "title": "Profile Card Component",
+        "desc": "A compact, centered profile card that displays a user’s image, location, and follower statistics. This project demonstrated attention to vertical and horizontal alignment, padding, and responsive sizing.",
+        "deliverables": "CSS Grid and Flexbox, card design, image handling, custom fonts, and mobile responsiveness.",
+        "image": "./assets/images/profile-card-component-desktop-design",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/profile-card-component/",
+        "year": "2024",
+        "link-tag": "profilecard.github.io"
+    },
+    {
+        "title": "Product Preview Card",
+        "desc": "A product-focused card with image, product details, and call-to-action. The project focused on balancing imagery and text with responsiveness in mind, ensuring layout adapts seamlessly from mobile to desktop.",
+        "deliverables": "Flexbox layout, responsive card design, image optimization, hover states, and CSS typography.",
+        "image": "./assets/images/product-preview-card-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/product-preview-card-component/",
+        "year": "2024",
+        "link-tag": "productpreviewcard.github.io"
+    },
+    {
+        "title": "Order Summary Component",
+        "desc": "A straightforward summary card of a digital subscription order. It features a clear price breakdown, a call-to-action button, and an option to change the plan. The design emphasizes UI clarity and clean component composition.",
+        "deliverables": "CSS Box Model, component structuring, hover effects, Flexbox alignment, and mobile-first styling.",
+        "image": "./assets/images/order-summary-component-desktop-design.jpg",
+        "skills": ["HTML5", "CSS3"],
+        "link": "https://oghenetega16.github.io/order-summary-component/",
+        "year": "2024",
+        "link-tag": "ordersummary.github.io"
+    }
+]

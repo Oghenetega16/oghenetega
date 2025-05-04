@@ -8,7 +8,7 @@ export default function Experience() {
                 <div className="lg:p-6 md:flex gap-20 lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hoverdrop-shadow-lg rounded-md transition motion-reduce:transition-none">
                     <span className="text-xs text-gray-400 w-29">2024 — PRESENT</span>
                     <div className="md:w-112">
-                        <p className="mb-2 text-white font-bold text-xl lg:group-hover:text-emerald-300">Freelance Frontend Developer — Remote <i className="fa-solid fa-arrow-up text-xs transform rotate-45 group-hover:text-sm"></i></p>
+                        <p className="mb-2 text-white font-bold text-xl lg:group-hover:text-[#4BD3D0]">Freelance Frontend Developer — Remote <i className="fa-solid fa-arrow-up text-xs transform rotate-45 group-hover:text-sm"></i></p>
                         <p className="text-sm text-gray-100">Delivered 10+ responsive web projects for personal, freelance, and 
                         educational purposes, focusing on UX, accessibility, and performance.
                         Collaborated with UI/UX designers in Figma and developers via Git/GitHub 
@@ -29,7 +29,7 @@ export default function Experience() {
                     </div>
                 </div>
             </div>
-            <a className="group" href="./resume.docx"><p className="md:mb-24 mb-16 text-white group-hover:text-emerald-300">View Full Resume <i className="fa-solid fa-arrow-up text-xs transform rotate-45 group-hover:text-sm"></i></p></a>
+            <a className="group" href="./resume.pdf"><p className="md:mb-24 mb-16 text-white group-hover:text-[#4BD3D0]">View Full Resume <i className="fa-solid fa-arrow-up text-xs transform rotate-45 group-hover:text-sm"></i></p></a>
         </>
     )
 }
