@@ -22,7 +22,7 @@ export default function Initials() {
                 </a>
             </div>
 
-            <div className="mt-8 flex gap-5 text-[#4BD3D0] lg:absolute lg:-bottom-60">
+            <div className="mt-8 flex gap-5 text-[#4BD3D0] lg:absolute">
                 <i className="fa-brands fa-github text-2xl"></i>
                 <i className="fa-brands fa-linkedin text-2xl"></i>
                 <i className="fa-regular fa-envelope text-2xl"></i>
