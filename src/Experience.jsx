@@ -3,7 +3,7 @@ import Skill from "./components/skills"
 export default function Experience() {
     return (
         <>
-            <div className="mb-16 scroll-mt-16 lg:scroll-mt-24 group" id="experience">
+            <div className="mb-16 scroll-mt-16 lg:scroll-mt-24 space-y-10 group" id="experience">
                 <h2 className="text-sm mb-5 text-white lg:hidden">EXPERIENCE</h2>
                 <div className="lg:p-6 md:flex gap-20 lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hoverdrop-shadow-lg rounded-md transition motion-reduce:transition-none">
                     <span className="text-xs text-gray-400 w-29">2024 — PRESENT</span>
@@ -28,7 +28,7 @@ export default function Experience() {
                         </div>
                     </div>
                 </div>
-                <div className="mt-10 lg:mt-0 lg:p-6 md:flex gap-20 lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hoverdrop-shadow-lg rounded-md transition motion-reduce:transition-none">
+                <div className="my-10 lg:mt-0 lg:p-6 md:flex gap-20 lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hoverdrop-shadow-lg rounded-md transition motion-reduce:transition-none">
                     <span className="text-xs text-gray-400 w-29">JAN — MAR 2025</span>
                     <div className="md:w-112">
                         <p className="text-white font-bold text-lg lg:group-hover:text-[#4BD3D0]">WeFitHost — Remote <i className="fa-solid fa-arrow-up text-xs transform rotate-45 group-hover:text-sm"></i></p>
@@ -54,3 +54,5 @@ export default function Experience() {
         </>
     )
 }
+
+// There are a few things to do

@@ -17,7 +17,6 @@ export default function Projects() {
                     <tr>
                         <th className="py-4 pr-8 text-sm font-semibold">Year</th>
                         <th className="py-4 pr-8 text-sm font-semibold">Project</th>
-                        {/* <th className="hidden py-4 pr-8 text-sm font-semibold  lg:table-cell">Made at</th> */}
                         <th className="hidden py-4 pr-8 text-sm font-semibold lg:table-cell">Built with</th>
                         <th className="hidden md:block py-4 pr-8 text-sm font-semibold lg:table-cell">Link</th>
                     </tr>
@@ -31,7 +30,6 @@ export default function Projects() {
                                 <a className='group-hover:text-[#4BD3D0]' href={item.link}>{item.title}</a>
                                 <div className='md:hidden'><i className="fa-solid fa-arrow-up ml-2 text-xs transform rotate-45 group-hover:text-sm group-hover:text-[#4BD3D0]"></i></div>
                             </td>
-                            {/* <td className="hidden py-4 pr-4 align-top text-sm lg:table-cell"><div>{item['made at']}</div></td> */}
                             <td className="hidden py-4 pr-4 align-top lg:table-cell">
                                 <div className='inline-flex flex-wrap space-x-2 space-y-2 text-black font-light'>
                                     {item.skills.map ((skill, i) => (
