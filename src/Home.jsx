@@ -17,3 +17,6 @@ export default function Home() {
         </div>
     )
 }
+
+// minor adjustments left to do:
+// the scroll thingy
